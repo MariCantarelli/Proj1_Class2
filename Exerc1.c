@@ -1,6 +1,11 @@
 /*Aula 2 Projetos e analise de algoritmos 1*/
+
+/*Para cada item, escreva uma função que receba um vetor v de números inteiros, e uma
+variável n que indica o tamanho do vetor e determina:*/
+
 #include<stdio.h>
 
+/*o maior número da lista*/
 int encontra_maior(int v[], int n){
     int maior = v[0]; 
     for(int i = 1; i < n; i++){
@@ -11,6 +16,7 @@ int encontra_maior(int v[], int n){
     return maior; 
 }
 
+/*o menor número da lista*/
 int encontra_menor(int v[], int n){
     int menor = v[0]; 
     for(int i = 1; i < n; i++){
@@ -21,6 +27,7 @@ int encontra_menor(int v[], int n){
     return menor; 
 }
 
+/*a quantidade de números pares da lista*/
 int conta_numeros_pares(int v[], int n){
     int contador = 0; 
     for(int i = 0; i < n; i++){
@@ -31,6 +38,7 @@ int conta_numeros_pares(int v[], int n){
     return contador; 
 }
 
+/*a média dos números contidos na lista*/
 float calcular_a_media(int v[], int n){
     float soma = 0.0; 
     for(int i = 0; i < n; i++){
