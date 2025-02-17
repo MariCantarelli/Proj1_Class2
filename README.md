@@ -2,6 +2,7 @@
 
 Para cada item, escreva uma função que receba um vetor v de números inteiros, e uma
 variável n que indica o tamanho do vetor e determina:
+
 a) o maior número da lista;
 
 b) o menor número da lista;
