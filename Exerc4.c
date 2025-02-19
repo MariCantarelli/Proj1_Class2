@@ -1,5 +1,4 @@
-/*Escreva uma função que receba um vetor e, sem utilizar qualquer vetor auxiliar, coloque
-os números pares no início do vetor e os números ímpares no final do vetor.*/
+/*Escreva uma função que receba um vetor e, sem utilizar qualquer vetor auxiliar, coloque os números pares no início do vetor e os números ímpares no final do vetor.*/
 
 #include<stdio.h>
 
