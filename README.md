@@ -18,3 +18,6 @@ esteja em ordem crescente retorne True, e False caso contrário
 
 3. Escreva uma função que receba um vetor e, sem utilizar qualquer vetor auxiliar, devolva
 o mesmo vetor invertido. 
+
+4. Escreva uma função que receba um vetor e, sem utilizar qualquer vetor auxiliar, coloque
+os números pares no início do vetor e os números ímpares no final do vetor.
