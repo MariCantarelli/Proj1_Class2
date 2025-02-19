@@ -1,3 +1,5 @@
+/*Escreva uma função que receba um vetor e, sem utilizar qualquer vetor auxiliar, devolva
+o mesmo vetor invertido.*/
 #include <stdio.h>
 
 void troca(int v[], int i, int j){
